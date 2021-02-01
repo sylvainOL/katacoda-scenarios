@@ -1,20 +1,40 @@
 {
-    "noindex": true,
-    "title": "Doc as Code",
-    "description": "Managing documentation as code",
-    "details": {
-        "steps": [
-            {
-                "title": "",
-                "text": "step1.md"
-            }
-        ]
+  "noindex": true,
+  "title": "Doc As Code",
+  "description":"Managing documentation as code",
+  "difficulty": "Beginners",
+  "time": "20 minutes",
+  "details": {
+    "steps": [
+      {
+        "title": "Step 1 - Setup environment",
+        "text": "step1.md"
+      },
+      {
+        "title": "Step 2 - Test syntax",
+        "text": "step2.md"
+      },
+      {
+        "title": "Step 3 - Preview",
+        "text": "step3.md"
+      },
+      {
+        "title": "Step 4 - Generate HTML",
+        "text": "step4.md"
+      }
+    ],
+    "intro": {
+      "text": "intro.md"
     },
-    "environment": {
-        "hideintro": true,
-        "uilayout": "editor-terminal"
-    },
-    "backend": {
-        "imageid": "ubuntu"
+    "finish": {
+      "text": "finish.md"
     }
+  },
+  "environment": {
+    "hidefinish": true,
+    "uilayout": "vscode-terminal-split"
+  },
+  "backend": {
+    "imageid": "ubuntu:2004"
+  }
 }
