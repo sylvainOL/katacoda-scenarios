@@ -1,9 +1,14 @@
-Generate the documentation using Sphinx
+Generate the documentation using **Sphinx**
 
 Use `Sphinx` to generate the documentation in the `Àpache` directory
 
 ```
 sphinx-build -n -b html docs /var/www/html 
-``{{execute}}
+```{{execute}}
 
-Test the generated documentation by opening a new terminal
+A set of HTML files is created under the `/var/www/html` directory based on the
+RST files stored under the `docs` directory and the configuration files
+`conf.py` and `conf.yaml.
+
+Test the generated documentation by opening a new window.
+Click '+' near 'Terminal' and select 'View HTTP port 80 on Host1'
