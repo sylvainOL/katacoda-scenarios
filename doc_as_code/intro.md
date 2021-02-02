@@ -8,8 +8,8 @@ This scenario offers an environment based on `ubuntu:2004` with the necessary to
 
 This scenario includes 5 steps:
 
-- Step1: setup environment
-- Step2: fetch RST files and configuration files
-- Step3: test RST files
-- Step4: vizualize the RST files in Visaul Studio Code
-- Step5: Generate HTML files and visualize in web server
+- Step1: Setup environment
+- Step2: Fetch RST files and configuration files
+- Step3: Test RST files
+- Step4: Visualize the RST files in Visual Studio Code
+- Step5: Generate HTML files and visualize in a web server
