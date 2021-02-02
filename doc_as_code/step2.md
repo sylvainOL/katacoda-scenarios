@@ -1,6 +1,6 @@
 Download RST files from a project
 
-Fetch the following repo
+Fetch the following `doc` repo in the `ONAP` project.
 
 ```
 cd ~
