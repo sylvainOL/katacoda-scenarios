@@ -1,9 +1,10 @@
 This scenario demonstrates how Documentation is generated from RST files
 
-RST files are editing using **Visual Studio Code**. 
+RST files are editing using **Visual Studio Code**.
+
 **Sphinx** tool is used to generate documentation based on some configuration files.
 
-This scenario offers an environment based on `ununtu:2004` with the necessary tools deployed during *Step1*
+This scenario offers an environment based on `ubuntu:2004` with the necessary tools deployed during *Step1*
 
 This scenario includes 5 steps:
 
