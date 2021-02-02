@@ -1,5 +1,6 @@
-apt update
-apt install apache2
+#!/bin/sh
+#apt-get update
+#apt-get install apache2
 pip install lfdocs-conf 
 pip install rstcheck
 pip install doc8
@@ -12,3 +13,4 @@ pip install sphinxcontrib-seqdiag
 pip install sphinxcontrib-swaggerdoc
 pip install sphinxcontrib-redoc
 pip install sphinx_rtd_theme
+echo "Installation finished"
