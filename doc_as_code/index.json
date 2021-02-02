@@ -11,16 +11,20 @@
         "text": "step1.md"
       },
       {
-        "title": "Step 2 - Test syntax",
+        "title": "Step 2 - Fetch RST files",
         "text": "step2.md"
       },
       {
-        "title": "Step 3 - Preview",
+        "title": "Step 3 - Test RST files",
         "text": "step3.md"
       },
       {
-        "title": "Step 4 - Generate HTML",
-        "text": "step4.md"
+        "title": "Step 4 - Visualize RST files",
+        "text": "step3.md"
+      },
+      {
+        "title": "Step 5 - Generate HTML",
+        "text": "step5.md"
       }
     ],
     "intro": {
