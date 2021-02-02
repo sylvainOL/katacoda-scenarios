@@ -10,13 +10,13 @@ git clone https://git.onap.org/doc.git
 Goto the `docs` directory and verify te configuration files
 
 ```
-cd doc/docs
-ls conf.*
+cd doc
+ls docs/conf.*
 ```{{execute}}
 
 List RST file in the docs directory
 
 ```
-ls *.rst
+ls docs/*.rst
 ```{{execute}}
 
