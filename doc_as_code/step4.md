@@ -1,4 +1,9 @@
 Generate the documentation using Sphinx
 
-Execute the following command:
-`sphinx-build -b html . _build`{{execute}}
+Use `Sphinx` to generate the documentation in the `Àpache` directory
+
+```
+sphinx-build -n -b linkcheck docs /var/www/html 
+``{{execute}}
+
+Test the generated documentation by opening a new terminal
