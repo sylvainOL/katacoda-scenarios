@@ -7,7 +7,7 @@ cd ~
 git clone https://git.onap.org/doc.git
 ```{{execute}}
 
-Goto the `docs` directory and verify te configuration files
+Goto the `docs` directory and verify the configuration files
 
 ```
 cd doc
