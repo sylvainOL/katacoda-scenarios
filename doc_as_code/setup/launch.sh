@@ -1,3 +1,5 @@
+apt update
+apt install apache2
 pip install lfdocs-conf 
 pip install rstcheck
 pip install doc8
