@@ -9,3 +9,6 @@ chmod +x launch.sh
 ./launch.sh
 ```{{execute}}
 
+I can take a few minutes.
+
+When the script is finished, the message "Installation finished" is displayed
