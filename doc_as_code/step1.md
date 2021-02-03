@@ -1,4 +1,4 @@
-This scenario will deploy a local environment to generate HTML files using RST
+This scenario will deploy a local environment to generate HTML files using RST.
 
 Clone our example repository to setup the required libraries:
 
